@@ -1,22 +1,60 @@
 ---
-title: "How to not USE WORDPRESS 😤"
-description: "meta description"
+title: "FENOMENA BUNUH DIRI DAN HUBUNGANNYA
+DENGAN TINGKAT PENDIDIKAN DAN JENIS KELAMIN
+"
+description: "Jurnal Manja"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+categories: ["Jurnal"]
+authors: ['Sri Wahyuni, Amrazi Zakso ,Izhar Salim']
+tags: ["Suicide","Mental Health","Defresi"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Suicide is a global phenomenon found throughout the region on earth. Suicide is one of the causes of death cases around the world, WHO reveals suicides in Indonesia have fluctuated from year to year. Education influences social roles and division of labor in social life so that someone feels needed in society and this affects the incidence of suicide. In
+Indonesia suicide often occurs among women both sexual abuse victims and domestic violence victims. The existence of traumatic experiences and feelings of shame towards society are often the main reasons why they often make suicide attempts. Government assistance and the legal umbrella for victims is needed and that is the government’s obligation.
+However, if the victim is unable to withstand traumatic experience and it becomes a burden of misery in the life of the victim. This paper aims to describe the relationship between the level of education, gender and the phenomenon of suicide.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
+## Pendahuluan
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Bunuh diri adalah salah satu kasus serius yang sering terlupakan. Entah karena dianggap sebagai sesuatu yang terlalu ekstrem, atau karena tak banyak orang yang mengenal seseorang yang melakukan bunuh diri. Padahal, angka bunuh diri di Indonesia tak bisa dibilang sepele. Apa yang terjadi di Indonesia juga bagian dari masalah yang dihadapi oleh banyak negara di dunia.
+Berdasarkan data yang dikeluarkan World Health Organization pada 2012, sebanyak 804.000 kematian di dunia disebabkan oleh bunuh diri setiap tahunnya. Secara global, tingkat rasio bunuh diri adalah
+11,4 orang per 100.000 penduduk. Bila dibandingkan dengan perempuan, Di ASEAN pada 2012, negara dengan tingkat bunuh diri tertinggi adalah Myanmar dengan rasio 13,1 orang per
+100.000 penduduk diikuti oleh Thailand sebesar 11,4 orang per 100.000 penduduk. Sementara tingkat bunuh diri terendah berada di Filipina sebesar 2,9 orang per 100.000 penduduk dan Malaysia 3 orang per 100.000 penduduk. Berdasarkan jenis kelamin, tingkat bunuh diri laki-laki tertinggi berada di
+Thailand dengan rasio 19,1 orang per 100.000 penduduk dan Myanmar dengan rasio 16,5 orang per 100.000 penduduk. Sedangkan negara dengan tingkat bunuh diri perempuan tertinggi adalah Myanmar sebesar 10,3 orang per 100.000 penduduk dan Laos 6,6 orang per
+penduduk.
+Menurut Sutinah Maulani Perubahan peran dan penurunan interaksi sosial serta kehilangan pekerjaan bisa menyebabkan laki-laki menjadi rentan terhadap masalah-masalah mental termasuk depresi.
+Setiap karakter dan sifat yang berbeda baik perempuan maupun laki-laki dalam keadaan psikologis yang terganggu harus diberi dukungan, sehingga hal-hal yang berdampak buruk dapat segera diatasi atau diminimalkan permasalahan depresinya.
+Berdasarkan penelitian (Wulandari, 2011), tentang kejadian dan tingkat depresi pada lanjut usia: studi perbandingan di panti werda dan komunitas di Semarang menunjukkan hasil proporsi lansia wanita yang mengalami depresi sebanyak 41,2 % dan laki-laki 33,3 % ini berarti bahwa lansia wanita yang mengalami depresi lebih besar dari pada lansia laki- laki. Di Indonesia, tingkat rasio bunuh diri mencapai 1,6 sampai 1,8 orang untuk setiap 100.000 penduduk pada 2001. Sementara itu pada 2012, rasio bunuh diri menurun menjadi 4,3 orang per 100.000 penduduk dan tergolong rendah di antara negara ASEAN lainnya. Indonesia merupakan satu-satunya
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+negara di ASEAN yang tingkat bunuh diri tertingginya adalah perempuan, dengan rincian laki- laki sebesar 3,7 orang per 100.000 penduduk dan perempuan 4,9 orang per 100.000 penduduk Menurut Sekar Pendidikan berhubungan dengan status pekerjaan, status ekonomi dan status sosial seseorang, maka pendidikan berpengaruh pada peranan sosial dan pembagian kerja dalam kehidupan bermasyarakat sehingga seseorang merasa dibutuhkan di masyarakat dan hal ini mempengaruhi kejadian bunuh diri.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Metode Penelitian
+Metode penelitian yang digunakan dalam penelitian ini yaitu dengan melakukan studi literature pada buku-buku yang membahas tentang fenomena bunuh diri dan hubungaannya dengan tingkat pendidikan dan jenis kelamin, jurnal dan penelitian yang berkaitan dengan masalah tersebut.
+Lokasi penelitian ini adalah Ruang Baca FKIP UNTAN dan Perpustakaan Universitas Tanjung Pura.
+Instrument dalam penelitian ini adalah peneliti itu sendiri.
+
+## Hasil Penelitian
+### Bunuh Diri Dari Perspektif Sosiologi
+Ahli sosiologi yang terkenal dengan teori bunuh diri yaitu Emile Durkheim telah menjelaskan mengenai perilaku bunuh diri. Dia berpendapat bunuh diri dapat dipicu oleh penyebab psikologis, biologis, dan fisika kosmis yang terkadang tidak dapat dijelaskan secara eksakta. Dalam Corr, Nabe, & Corr, Durkheim membagi tipologi bunuh diri menjadi tiga.
+Tipologi pertama adalah bunuh diri egositik. Menurut Durkheim, tipe bunuh diri ini disebabkan oleh melemahnya atau terlepasnya individu dari ikatan sosial. Dengan demikian, individu yang tidak terintegrasi akan cenderung melakukan bunuh diri. hal ini dibuktikan Durkheim dengan data statistik yang cukup kaya. Data-data itu menggambarkan bahwa tingkat bunuh diri secara signifikan dipengaruhi oleh lemahnya ikatan keagamaan, keluarga, dan dalam komunitas politik. Kedua, adalah tipe bunuh diri altruistik . Tipe ini berlawanan dengan tipe yang sebelumnya, karena bunuh diri altrusitik terjadi karena terlalu kuatnya individu dalam kohesifitas sosial dengan kelompoknya. Menurut Durkheim, gejala bunuh diri altrustik terjadi terutama di dalam komunitas yang masih mekanis . Dalam pandangan komunitas tersebut, bunuh diri tipe ini menjadi suatu keharusan karena disokong oleh nilai, terutama nilai tradisi dan agama. Sebagai contoh, Durkheim mendeskripsikan tradisi kuno untuk melakukan bunuh diri secara sukarela dalam suatu ritual keagamaan, karena adanya persepsi religius dewa meminta pengorbanan dari komunitas itu. Contoh lainnya adalah, orang India yang mewajibkan sang istri bunuh diri ketika ditinggal mati oleh suaminya. Dengan demikian, bunuh diri altruistik menggambarkan suatu gejala kuatnya kohesifitas sosial, sehingga jika bunuh diri tipe ini menjadi suatu hal yang diapresiasi oleh komunitas, sedangkan jika menghidar dari keharusan itu akan membuat sesorang dikucilkan atau bahkan mendapatkan hukuman dari komunitas tersebut. Tipe yang ketiga adalah bunuh diri anomik. Bunuh diri tipe ini disebabkan oleh perubahan sistem dalam masyarakat, terutama sistem ekonomi dan sistem sosial yang menyebabakan terganggunya kolektif order. Untuk menunjukan fenomena ini, Durkheim menggambarkan bahwa krisis ekonomi berperan dalam peningkatan jumlah angka bunuh diri. hal ini dipahami, karena adanya ketakutan atas ketidakpastian hidup terkait sulitnya pemenuhan butuhan- kebutuhan dasar. Selain, krisis ekonomi, fenomena lainya yang berpeluang meningkatkan gejala bunuh diri anomik adalah revolusi sosial dan juga bencana alam besar. Selain menjelaskan ketiga tipe bunuh diri, Durkheim juga memberikan gambaran tentang adanya kemungkinan antar satu tipe dengan yang lainya berhimpit pada satu kasus yang sama. Sehingga memungkinkan dalam satu kasus bunuh diri dapat digolongkan menjadi dua tipe bunuh diri sekaligus. Hal ini merupakan antisipasi dari Durkheim dalam melihat dinamika sosial dalam ranah empris. Wike Dita Herlinda (2017(online)) Berdasarkan perspektif sosiologi fenomena bunuh diri berawal dari individu bersangkutan yang mengalami masalah social seperti konflik atau kesalahpahaman dengan keluarga, peer group, teman kerja, kekasih, atau masalah keuangan. Aspek-aspek sosial tersebut, jika tidak teratasi, akan menimbulkan gangguan psikis. Sebab, gangguan psikologi itu tidak hanya dipengaruhi oleh kondisi bawaan sejak lahir, tetapi ada juga yang dipengaruhi oleh faktor sosial budaya. Dari perspektif sosiologi fenomena bunuh diri di picu oleh beberapa hal seperti perubahan lingkungan budaya dan ekonomi di era digital. Pada masa sekarang fasilitas dan standar gaya hidup semakin meningkat, sehingga tidak semua orang bisa mencapai kondisi yang diharapkan atau yang dicapai oleh orang lain. Misalnya, ada orang yang melihat tetangganya punya harta, itu bisa mempengaruhi kondisi psikisnya.
+
+### Hubungan Bunuh Diri Dengan Tingkat Pendidikan
+Menurut Kartono (2000:17) Bunuh diri ialah perbuatan dengan tujuan primer yaitu dengan sengaja bermaksud mengambil jiwa sendiri. Kejadian membunuh diri ini biasanya dilakukan oleh mereka yang menghadapi tekanan baik secara fisik maupun psikis. Mereka ini akan bertindak diluar pemikiran akal yang sehat. mereka merupakan individu yang memiliki permasalahan seperi masalah dalam keluarga, putus cinta dan sebagainya. Bunuh diri adalah hal yang dapat dicegah. Dalam kebanyakan kasus terdapat tanda-tanda peringatan dimana seseorang merenungkan usaha bunuh
+Menurut Ihsan pendidikan adalah usaha manusia untuk menumbuhkan dan mengembangkan potensi-potensi pembawaan baik jasmani maupun rohani sesuai dengan nilai- nilai yang ada dalam masyarakat dan kebudayaan.
+Menurut Langeveld (1979:12) pendidikan adalah “proses akulturasi anggota masyarakat yang masih muda oleh anggota masyarakat yang lebih tua”.
+Sesuai dengan penelitian yang dilakukan oleh Suardana (2011) , yang menunjukkan bahwa proporsi depresi pada seseorang yang berpendidikan rendah lebih besar dibandingkan proporsi depresi pada orang yang berpendidikan sedang/menengah dan tinggi.
+
+### Hubungan Jenis Kelamin Dengan Bunuh Diri
+Dalam Christina (2017) sebuah penelitian menunjukkan bahwa perempuan sebenarnya sangat rentan terhadap masalah psikologi seperti depresi yang bisa menjadi alasan bunuh diri. Di masyarakat Eropa, tahun 2015 lalu, tingkat gangguan kesehatan mental cenderung berkisar pada 20-40 persen lebih tinggi untuk perempuan dibanding laki-laki. Angka yang tinggi ini sebenarnya tak mengherankan jika banyak perempuan yang cenderung punya pikiran untuk bunuh diri.
+The Adult Psychiatric Morbidity di Inggris melalui survei tahun 2007 menemukan bahwa dari angka tersebut sekitar 19% perempuan sudah mempertimbangkan kembali keinginannya untuk bunuh diri. Sedangkan pria, hanya 14%. Survei tersebut juga menemukan bahwa sekitar 7% perempuan dan
+4% pria pernah mencoba bunuh diri di beberapa titik tertentu dalam hidup mereka.
+Namun kenyataan yang terjadi adalah sebaliknya. Dari 5.981 angka kematian akibat bunuh diri di Inggris pada 2012 lalu menemukan fakta bahwa lebih dari tiga perempatnya adalah laki-laki. Sedangkan di Amerika Serikat, pada 2010, dari 38 ribu orang yang bunuh diri, 79 persennya adalah laki-laki (Christina Andhika Setyanti, 2017 (online)).
+World Health Organization mencatat sekitar satu juta orang menghabisi nyawanya sendiri setiap tahunnya, dan itu belum termasuk data percobaan bunuh diri yang 'tidak sukses'. Di hampir setiap negara, frekuensi pria yang bunuh diri lebih sering dibandingkan wanita. Fakta ini cukup menarik, mengingat wanita lah yang cenderung berisiko lebih tinggi mengalami gangguan kesehatan mental, contohnya depresi.
+Kecenderungan orang untuk bunuh diri memang erat kaitannya dengan gangguan kesehatan mental seperti depresi dan kecemasan akut. Namun seperti dikutip dari Forbes, sebenarnya ada faktor lain yang memengaruhi, yang menurut sejumlah peneliti, memerlukan perhatian lebih.
+Berdasarkan studi yang diprakarsai Samaritans, sebuah organisasi dengan misi mengurangi tingkat bunuh diri, pria berusia paruh baya paling berisiko untuk bunuh diri. Kondisi ini berbeda dengan zaman dulu, di mana pemuda yang lebih berisiko bunuh diri ketimbang pria dewasa. Namun dalam beberapa dekade terakhir, situasinya berbanding terbalik.
+Kini banyak pria dewasa dan paruh baya yang tingkat kesejahteraannya rendah berada di tingkat paling tinggi risikonya untuk melakukan bunuh diri. Terutama jika mereka berada di kelas sosial-ekonomi yang lebih rendah. Pria paruh baya di era sekarang, berada di persimpangan antara dua generasi yang berbeda; sehingga membuat mereka merasa terperangkap dan kehidupannya seolah berjalan di tempat.
+“Pria-pria di usia paruh baya sekarang ini adalah generasi 'buffer', terperangkap di antara budaya tradisional yang diam, kuat dan maskulin yang diturunkan dari ayah mereka, dan generasi anak-anak mereka yang lebih progresif, terbuka dan lebih individual. Mereka jadi tidak tahu budaya dan jalan seperti apa yang harus diikuti”  demikian hasil studi yang ditulis Alice G. Walton, doktor Biopsikologi dan
+
+
