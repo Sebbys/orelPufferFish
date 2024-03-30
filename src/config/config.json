@@ -4,7 +4,7 @@
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/blob-2.png",
     "logo": "/images/NameLogo.png",
     "logo_width": "400",
     "logo_height": "34",
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Shiro666",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/images/NameLogo.png",
     "meta_description": "Orel PufferFish 🐡"
   },
 
@@ -28,8 +28,8 @@
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "Dibawah Batu nisan kini, tlah ku sampaikan",
+    "email": "ingfdefresi@orelpufferfish.org",
+    "phone": "+666 420 1234"
   }
 }
