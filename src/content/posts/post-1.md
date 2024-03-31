@@ -4,7 +4,7 @@ DENGAN TINGKAT PENDIDIKAN DAN JENIS KELAMIN
 "
 description: "Jurnal Manja"
 date: 2022-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/oemji.png"
 categories: ["Jurnal"]
 authors: ['Sri Wahyuni, Amrazi Zakso ,Izhar Salim']
 tags: ["Suicide","Mental Health","Defresi"]

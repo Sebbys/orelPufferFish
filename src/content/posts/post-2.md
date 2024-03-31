@@ -3,7 +3,7 @@ title: BUNUH DIRI DAN DEPRESI DALAM PERSPEKTIF PEKERJAAN SOSIAL
 
 description: "meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/posts/02.jpg"
+image: "/images/posts/defresi.png"
 categories: ["Jurnal"] 
 authors: [""]
 tags: ["Suicide","Mental Health","Defresi"]
