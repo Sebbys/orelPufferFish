@@ -1,13 +1,13 @@
 {
   "site": {
     "title": "Orel PufferFish 🐡",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_url": "/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/blob-2.png",
     "logo": "/images/NameLogo.png",
     "logo_width": "400",
-    "logo_height": "34",
+    "logo_height": "300",
     "logo_text": "Orel PufferFish 🐡"
   },
 
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Shiro666 w/ OrelPufferFish"
   },
 
   "contactinfo": {

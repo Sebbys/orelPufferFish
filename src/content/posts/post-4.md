@@ -2,7 +2,7 @@
 title: "The philosophy of communication in technology-based education: Study of research trends in the last three years
 "
 description: "meta description"
-image: "/images/posts/04.jpg"
+image: "/images/posts/4.jpeg"
 date: 2021-02-02T16:56:47+06:00
 draft: false
 authors: [""]

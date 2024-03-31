@@ -2,7 +2,7 @@
 title: Teenager Self-Presentation and Their Digital Privacy
 description: "meta description"
 date: 2022-04-02T06:00:00+00:00
-image: "/images/posts/03.jpg"
+image: "/images/posts/3.jpeg"
 categories: ["Jurnal","International Paper"]
 authors: [""]
 tags: ["Digital Privacy", "Personal Information"]

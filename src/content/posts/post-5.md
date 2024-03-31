@@ -2,7 +2,7 @@
 title: "Counter-Human Trafficking in East Nusa Tenggara: The Urgency of
 Strengthening NGOs Role through Multilevel Collaborative Governance"
 description: "meta description"
-image: "/images/posts/05.jpg"
+image: "/images/posts/5.jpeg"
 date: 2021-01-25T16:56:47+06:00
 draft: false
 authors: [""]

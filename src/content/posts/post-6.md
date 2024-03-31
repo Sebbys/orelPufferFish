@@ -3,7 +3,7 @@ title: "Sekuritisasi Pengungsi dan Migran dari Timur Tengah oleh Pemerintah
 Hungaria Tahun 2015-2019
 "
 description: "meta description"
-image: "/images/posts/06.jpg"
+image: "/images/posts/6.jpeg"
 date: 2021-02-03T16:56:47+06:00
 draft: false
 authors: [" "]
