@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Orel PufferFish 🐡",
-    "base_url": "/",
+    "base_url": "https://orel-puffer-fish.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/blob-2.png",
